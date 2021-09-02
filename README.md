@@ -1,0 +1,1 @@
+# amazon-s3-php-class-hmac-v2
